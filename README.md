@@ -1,6 +1,6 @@
 # High School C++ Assignments
 
-Assignments 1-14,16-17 for a CC+ course I took in high school in the year 2008. Mr. Simon taught the course.
+Assignments 1-14,16-17 for a C++ course I took in high school in the year 2008. Mr. Simon taught the course.
 
 ## Getting Started
 
